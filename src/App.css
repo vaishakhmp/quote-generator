@@ -9,8 +9,8 @@
 .quote{
     background: rgb(238, 199, 5);
     background-size: cover;
-    width: 450px;
-    height: 320px;
+    width: 600px;
+    height: 400px;
     border-radius: 10px;
     padding: 50px;
     display: flex;
